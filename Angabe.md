@@ -41,7 +41,6 @@ Es wurden 11 commits in diesem Projekt erstellt, inklusive Antwort von Nummer 5.
 
 ----------------------- 
 
-Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
-
+Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: https://github.com/tamasLiptak/git-quiz-3bhitm.git
 Gib anschließend dieses ANGABE-File bei MOODLE ab!
 
