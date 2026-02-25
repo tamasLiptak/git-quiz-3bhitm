@@ -1,7 +1,7 @@
 # GIT Quiz - Angabe
 
 ## Aufgabenstellung
-**Name:** _____________________  
+**Name:** Tamas Liptak  
 
 ### Ziel
 Zeige in diesem Quiz, dass du die Grundlagen von Git verstanden hast.
