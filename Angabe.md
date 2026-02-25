@@ -36,6 +36,9 @@ Du arbeitest strukturiert mit Branches, führst saubere Commits durch und kannst
 5. **GIT-History analysieren (4 Punkte)**
 Schaue dir nun die komplette Commit-History an. Denn im aktuellen Projekt funktioniert die Navigation nicht korrekt. Finde heraus, in welchem Commit der Fehler eingeführt werde. Beschreibe kurz / gibt die Commit-ID an. Mit welchem Befehl hast du dies herausgefunden? Wie viele Commits wurden insgesamt in diesem Projekt erstellt?
 
+Commit-ID: 8be24db; Ich habe im VS-Code einfach im Log links unten geschaut und verglichen was geändert wurde, dann hab ich gesehen, dass Pfade im href entfernt worden sind.
+Es wurden 11 commits in diesem Projekt erstellt, inklusive Antwort von Nummer 5.
+
 ----------------------- 
 
 Du hast das Quiz nun erfolgreich abgeschlossen. Gib HIER den Link zu deinem geforkten Repository an: _____________________
